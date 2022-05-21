@@ -23,7 +23,7 @@ app.get('/filmes', function(req,res) {
 
 app.post('/musica', function(req,res) {
  var json = req.body
- if(json.id == null && json.autor == null && json.genero == null){
+ if(json.id == null || json.autor == null || json.genero == null){
    res.statusMessage = "'parametros invalidos'" + req.body;
   res.status(400).end();
  }else{
