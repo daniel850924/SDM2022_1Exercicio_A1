@@ -14,6 +14,8 @@ Daniel Avelino de Paula – RA 1221116214
 
 Ednei Rosa Ferreira – RA 120112951
 
+Lavínia Luiza Esteves Souza - RA 121116616
+
 Monique César Nascimento - RA - 11825561
 
 Wagner Artur Paulino Jamar - RA 119213656
